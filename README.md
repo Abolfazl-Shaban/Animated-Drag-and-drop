@@ -6,6 +6,8 @@ An incredibly fun, highly interactive file uploader component built with **React
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+Live Demo: https://animated-drag-and-drop.vercel.app/
+
 ---
 
 ![preview](preview.png)
